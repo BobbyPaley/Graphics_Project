@@ -1,0 +1,278 @@
+{
+  "assetCategories": {
+    "imperfection": {
+      "damage": {},
+      "grunge": {}
+    }
+  },
+  "averageColor": "#808080",
+  "categories": [
+    "surface",
+    "Imperfections",
+    "Grunge"
+  ],
+  "comp_version": 1,
+  "description": "",
+  "environment": {
+    "biome": "undefined",
+    "region": "undefined"
+  },
+  "highest_available_res": 8192,
+  "id": "tedxadjc",
+  "json": {
+    "contentLength": 5859,
+    "uri": "tedxadjc.json"
+  },
+  "maps": [
+    {
+      "averageColor": "#696969",
+      "bitDepth": 32,
+      "colorSpace": "Linear",
+      "contentLength": 132438535,
+      "maxIntensity": 222,
+      "mimeType": "image/x-exr",
+      "minIntensity": 28,
+      "name": "Gloss",
+      "physicalSize": "1x1",
+      "resolution": "8192x8192",
+      "type": "gloss",
+      "uri": "tedxadjc_8K_Gloss.exr"
+    },
+    {
+      "averageColor": "#696969",
+      "bitDepth": 8,
+      "colorSpace": "Linear",
+      "contentLength": 43726373,
+      "maxIntensity": 222,
+      "mimeType": "image/jpeg",
+      "minIntensity": 28,
+      "name": "Gloss",
+      "physicalSize": "1x1",
+      "resolution": "8192x8192",
+      "type": "gloss",
+      "uri": "tedxadjc_8K_Gloss.jpg"
+    },
+    {
+      "averageColor": "#969696",
+      "bitDepth": 32,
+      "colorSpace": "Linear",
+      "contentLength": 113359647,
+      "maxIntensity": 227,
+      "mimeType": "image/x-exr",
+      "minIntensity": 33,
+      "name": "Roughness",
+      "physicalSize": "1x1",
+      "resolution": "8192x8192",
+      "type": "roughness",
+      "uri": "tedxadjc_8K_Roughness.exr"
+    },
+    {
+      "averageColor": "#969696",
+      "bitDepth": 8,
+      "colorSpace": "Linear",
+      "contentLength": 43406270,
+      "maxIntensity": 227,
+      "mimeType": "image/jpeg",
+      "minIntensity": 33,
+      "name": "Roughness",
+      "physicalSize": "1x1",
+      "resolution": "8192x8192",
+      "type": "roughness",
+      "uri": "tedxadjc_8K_Roughness.jpg"
+    }
+  ],
+  "meta": [
+    {
+      "key": "scanArea",
+      "name": "Scan Area",
+      "value": "1x1 m"
+    },
+    {
+      "key": "height",
+      "name": "Height",
+      "value": "20 m"
+    },
+    {
+      "key": "tileable",
+      "name": "Tileable",
+      "value": true
+    },
+    {
+      "key": "texelDensity",
+      "name": "Texel Density",
+      "value": "8192 px/m"
+    },
+    {
+      "key": "calibration",
+      "name": "Calibration",
+      "value": "GretagMacbeth ColorChecker Color Rendition Chart"
+    },
+    {
+      "key": "scanner",
+      "name": "Scanner",
+      "value": "MKX"
+    }
+  ],
+  "models": [],
+  "name": "Grunge",
+  "pack": {
+    "_id": "wear-and-tear",
+    "name": "Wear and Tear"
+  },
+  "physicalSize": null,
+  "points": 1,
+  "previews": {
+    "images": [
+      {
+        "contentLength": 152349,
+        "resolution": "360x360",
+        "tags": [
+          "thumb"
+        ],
+        "uri": "tedxadjc_Grid_360.png"
+      },
+      {
+        "contentLength": 206318,
+        "resolution": "420x420",
+        "tags": [
+          "thumb"
+        ],
+        "uri": "tedxadjc_Grid_420.png"
+      },
+      {
+        "contentLength": 597489,
+        "resolution": "720x720",
+        "tags": [
+          "thumb",
+          "retina"
+        ],
+        "uri": "tedxadjc_Grid_720.png"
+      },
+      {
+        "contentLength": 814813,
+        "resolution": "840x840",
+        "tags": [
+          "thumb",
+          "retina"
+        ],
+        "uri": "tedxadjc_Grid_840.png"
+      },
+      {
+        "contentLength": 1616314,
+        "resolution": "1440x768",
+        "tags": [
+          "preview"
+        ],
+        "uri": "tedxadjc_Popup_1440.png"
+      },
+      {
+        "contentLength": 3017822,
+        "resolution": "1920x1080",
+        "tags": [
+          "preview"
+        ],
+        "uri": "tedxadjc_Popup_1920.png"
+      },
+      {
+        "contentLength": 6407190,
+        "resolution": "2880x1536",
+        "tags": [
+          "preview",
+          "retina"
+        ],
+        "uri": "tedxadjc_Popup_2880.png"
+      },
+      {
+        "contentLength": 12123571,
+        "resolution": "3840x2160",
+        "tags": [
+          "preview",
+          "retina"
+        ],
+        "uri": "tedxadjc_Popup_3840.png"
+      }
+    ],
+    "relativeSize": "1x1",
+    "scaleReferences": []
+  },
+  "process_date": "2024-04-17 10:44:50",
+  "properties": [],
+  "referencePreviews": {
+    "maps": [],
+    "models": []
+  },
+  "references": [],
+  "revised": false,
+  "semanticTags": {
+    "3d_mesh": [],
+    "architectural_style": {},
+    "asset_type": "imperfection",
+    "city": [],
+    "contains": [
+      "grime",
+      "dirt"
+    ],
+    "description": "",
+    "industry": [
+      "archviz",
+      "games",
+      "VFX"
+    ],
+    "interior_exterior": [],
+    "locations": {
+      "Global": {
+        "Global": {}
+      }
+    },
+    "maxSize": 1,
+    "minSize": 1,
+    "name": "Grunge",
+    "orientation": [],
+    "resolution": 8192,
+    "state": [
+      "damaged"
+    ],
+    "subject_matter": "nature"
+  },
+  "tags": [
+    "surface imperfection",
+    "archviz"
+  ],
+  "texelDensity": 8192,
+  "texture_type": "basic",
+  "ue_plugin_archives": [
+    {
+      "contentLength": 74582435,
+      "gltfVersion": "2.0",
+      "tier": 0,
+      "type": "gltf",
+      "uri": "ue_plugin_archives/tier_0/tedxadjc_tier_0.zip",
+      "version": 1
+    },
+    {
+      "contentLength": 20830046,
+      "gltfVersion": "2.0",
+      "tier": 1,
+      "type": "gltf",
+      "uri": "ue_plugin_archives/tier_1/tedxadjc_tier_1.zip",
+      "version": 1
+    },
+    {
+      "contentLength": 5428664,
+      "gltfVersion": "2.0",
+      "tier": 2,
+      "type": "gltf",
+      "uri": "ue_plugin_archives/tier_2/tedxadjc_tier_2.zip",
+      "version": 1
+    },
+    {
+      "contentLength": 1955921,
+      "gltfVersion": "2.0",
+      "tier": 3,
+      "type": "gltf",
+      "uri": "ue_plugin_archives/tier_3/tedxadjc_tier_3.zip",
+      "version": 1
+    }
+  ],
+  "version": 2
+}
